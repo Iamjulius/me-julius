@@ -1,1 +1,2 @@
-# me-julius
+# me@julius
+#computer science student
